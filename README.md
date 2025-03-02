@@ -21,25 +21,19 @@ Welcome to the JSP, Servlet, and PostgreSQL User Management System repository! T
 
 ### Installation
 
-1. **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/faid-terence/jsp-servlet-postgresql-user-management.git
-    ```
-
-2. **Set up the database:**
+1. **Set up the database:**
 
     - Execute the SQL scripts in the `/db` directory to initialize the PostgreSQL database.
 
-3. **Configure the database connection:**
+2. **Configure the database connection:**
 
     - Update the database connection details in `/src/com/example/util/DBUtil.java` file.
 
-4. **Deploy the application:**
+3. **Deploy the application:**
 
     - Deploy the application on your Apache Tomcat server.
 
-5. **Access the application:**
+4. **Access the application:**
 
     - Open your web browser and navigate to `http://localhost:8080/ServletHub`.
 
