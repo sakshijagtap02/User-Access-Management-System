@@ -54,3 +54,6 @@ Welcome to the JSP, Servlet, and PostgreSQL User Management System repository! T
     - **Delete User:**
       - Remove a user from the system.
 
+## License
+
+This project is licensed under the MIT License.
